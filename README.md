@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LRHoucine
+- 👀 I’m engineer & full stack consultant
+- 🌱 I’m currently learning new Microsoft technologies (Code 5.0+ & Angular & Azure ...)
+- 📫 amri.houcine@gmail.com
+- 📫 LinkedIn : https://www.linkedin.com/in/houcine-amri-889b261bb/
